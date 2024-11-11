@@ -22,7 +22,7 @@ export default function ContactPage() {
               <div className="space-y-6">
                 <div className="flex items-center gap-4">
                   <Phone className="text-orange-500" />
-                  <span>(+212) 789 854 856</span>
+                  <span>(+212) 642733682</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <Mail className="text-orange-500" />
