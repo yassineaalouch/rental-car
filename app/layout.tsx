@@ -24,7 +24,7 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         
-        <WhatsAppButton phoneNumber="212600767422" />
+        <WhatsAppButton phoneNumber="212642733682" />
       </body>
     </html>
   )
